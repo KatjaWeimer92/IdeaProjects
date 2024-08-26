@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/basic_programming.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/basic_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation_01/consultation_01.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation_01/consultation_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation_02/consultation_02.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation_02/consultation_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation_03/consultation_03.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation_03/consultation_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation_04/consultation_04.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation_04/consultation_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation_05/consultation_05.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/consultation/consultation_05/consultation_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr42_20_03/gr42_20_03.iml" filepath="$PROJECT_DIR$/gr42_20_03/gr42_20_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_14_03/gr43_14_03.iml" filepath="$PROJECT_DIR$/gr43_14_03/gr43_14_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_15_03/gr43_15_03.iml" filepath="$PROJECT_DIR$/gr43_15_03/gr43_15_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_18_03/gr43_18_03.iml" filepath="$PROJECT_DIR$/gr43_18_03/gr43_18_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_19_03/gr43_19_03.iml" filepath="$PROJECT_DIR$/gr43_19_03/gr43_19_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_21_03_l12/gr43_21_03_l12.iml" filepath="$PROJECT_DIR$/gr43_21_03_l12/gr43_21_03_l12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_22_03_L13/gr43_22_03_L13.iml" filepath="$PROJECT_DIR$/gr43_22_03_L13/gr43_22_03_L13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_25_03_L14/gr43_25_03_L14.iml" filepath="$PROJECT_DIR$/gr43_25_03_L14/gr43_25_03_L14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_cons_14_03/gr43_cons_14_03.iml" filepath="$PROJECT_DIR$/gr43_cons_14_03/gr43_cons_14_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_cons_19_03/gr43_cons_19_03.iml" filepath="$PROJECT_DIR$/gr43_cons_19_03/gr43_cons_19_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_cons_21_03/gr43_cons_21_03.iml" filepath="$PROJECT_DIR$/gr43_cons_21_03/gr43_cons_21_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr43_home_work_19_03/gr43_home_work_19_03.iml" filepath="$PROJECT_DIR$/gr43_home_work_19_03/gr43_home_work_19_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr_13_03_24/gr_13_03_24.iml" filepath="$PROJECT_DIR$/gr_13_03_24/gr_13_03_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gr_43_05_03/gr_43_05_03.iml" filepath="$PROJECT_DIR$/gr_43_05_03/gr_43_05_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guessNumber/guessNumber.iml" filepath="$PROJECT_DIR$/guessNumber/guessNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home work/home work.iml" filepath="$PROJECT_DIR$/home work/home work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_ work_06_03_24/home_ work_06_03_24.iml" filepath="$PROJECT_DIR$/home_ work_06_03_24/home_ work_06_03_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_07_03_24/home_work_07_03_24.iml" filepath="$PROJECT_DIR$/home_work_07_03_24/home_work_07_03_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_11_03/home_work_11_03.iml" filepath="$PROJECT_DIR$/home_work_11_03/home_work_11_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_12_03/home_work_12_03.iml" filepath="$PROJECT_DIR$/home_work_12_03/home_work_12_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_13_03/home_work_13_03.iml" filepath="$PROJECT_DIR$/home_work_13_03/home_work_13_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_14_04/home_work_14_04.iml" filepath="$PROJECT_DIR$/home_work_14_04/home_work_14_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_15_03/home_work_15_03.iml" filepath="$PROJECT_DIR$/home_work_15_03/home_work_15_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_18_03/home_work_18_03.iml" filepath="$PROJECT_DIR$/home_work_18_03/home_work_18_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_19_03/home_work_19_03.iml" filepath="$PROJECT_DIR$/home_work_19_03/home_work_19_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_20_03/home_work_20_03.iml" filepath="$PROJECT_DIR$/home_work_20_03/home_work_20_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_21_02/home_work_21_02.iml" filepath="$PROJECT_DIR$/home_work_21_02/home_work_21_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_work_22_03/home_work_22_03.iml" filepath="$PROJECT_DIR$/home_work_22_03/home_work_22_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture_15_26_05/lecture_15_26_05.iml" filepath="$PROJECT_DIR$/lecture_15_26_05/lecture_15_26_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_01/lesson_01.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_01/lesson_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_02/lesson_02.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_02/lesson_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_03/lesson_03.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_03/lesson_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_04/lesson_04.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_04/lesson_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_06/lesson_06.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_06/lesson_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_07/lesson_07.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_07/lesson_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_08/lesson_08.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_08/lesson_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_09/lesson_09.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_09/lesson_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_10/lesson_10.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_10/lesson_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_11/lesson_11.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_11/lesson_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_12/lesson_12.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_12/lesson_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_13/lesson_13.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_13/lesson_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_14/lesson_14.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_14/lesson_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_15/lesson_15.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_15/lesson_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_16/lesson_16.iml" filepath="$PROJECT_DIR$/lesson_16/lesson_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_17/lesson_17.iml" filepath="$PROJECT_DIR$/lesson_17/lesson_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_18/lesson_18.iml" filepath="$PROJECT_DIR$/lesson_18/lesson_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_19/lesson_19.iml" filepath="$PROJECT_DIR$/lesson_19/lesson_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_19_new/lesson_19_new.iml" filepath="$PROJECT_DIR$/lesson_19_new/lesson_19_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_21/lesson_21.iml" filepath="$PROJECT_DIR$/lesson_21/lesson_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_22/lesson_22.iml" filepath="$PROJECT_DIR$/lesson_22/lesson_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_24/lesson_24.iml" filepath="$PROJECT_DIR$/lesson_24/lesson_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_25/lesson_25.iml" filepath="$PROJECT_DIR$/lesson_25/lesson_25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_05/code/main5/main5.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_05/code/main5/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_13_03/practice_13_03.iml" filepath="$PROJECT_DIR$/practice_13_03/practice_13_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cohort43M/basic_programming/lesson_05/code/scanner_class/scanner_class.iml" filepath="$PROJECT_DIR$/cohort43M/basic_programming/lesson_05/code/scanner_class/scanner_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/work_07_03/work_07_03.iml" filepath="$PROJECT_DIR$/work_07_03/work_07_03.iml" />
+    </modules>
+  </component>
+</project>
